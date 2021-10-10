@@ -16,5 +16,5 @@ In this project we outlined the design of a phone messaging system as an add on 
 ## Extensions
 **We did (or have tried to do) the following extensions for this project:**
 - A simplified version of Software Requirement Specification for the system using IEEE template: _srs_proj1-ieee.doc_. We tried our best effort to comply to the template and include as much information as possible to the best of our knowledge. However due to our lack of experience still in this professional field, we skipped parts of the template where we found is either out of scope of this project, or not in our current scope of comprehension. 
-- Data dictionary
+- Data dictionary, which includes all system fields and corresponding descriptions.
 - A new Sequence diagram and class diagram for the Genome SNPs/Indel browser. 
